@@ -22,15 +22,3 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" height="50px" width="50px">
 
-### GitHub Stats:
-	
-<div>
-	<img alt="Fazil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fazilmohamed1998&show_icons=true&count_private=true&theme=algolia" height="192px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fazilmohamed1998&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fazilmohamed1998" height="192px">
-</div>
-
-
-	
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
-</p>
