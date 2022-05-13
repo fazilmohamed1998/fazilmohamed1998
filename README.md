@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Fazil
 
-- 🔭 I’m currently working on flood prediction and monitoring system based on the AI, Machine Learning & IoT
-- 💬 Ask me about iot
+- 💬 Ask me about IoT
 - 📫 How to reach me: mfazilm98@gmail.com
 
 ### Connect with me:
